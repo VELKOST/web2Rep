@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import axios from 'axios';
 
 function MyComponent() {
@@ -7,7 +7,7 @@ function MyComponent() {
     const [error, setError] = useState(null);
 
     useEffect(() => {
-        axios.get('https://localhost:8080/index')
+        axios.get('https://localhost:7220/WeatherForecast')
             .then(response => {
                 setData(response.data);
             })

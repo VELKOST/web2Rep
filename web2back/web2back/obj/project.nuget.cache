@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BFv//xVxrRBYt/hoiI3x1K2ETZ05VffClSogSiBWjKjMAsr8kgP/yQkeunObMfD7aUAxWkX/x9LJD6G2zPbK5Q==",
+  "dgSpecHash": "k68S8+egHH9G8imTkDQYxl5NvPKTZCZ8uzpczxqDO2bo4f9jE+L4LXhHqSva6ZI/bWQS2TJDmVXUNbLlIU8HFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Владислав\\Desktop\\web2back\\web2back\\web2back.csproj",
+  "projectFilePath": "C:\\Users\\Владислав\\Desktop\\web2\\web2back\\web2back\\web2back.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Владислав\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\Владислав\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

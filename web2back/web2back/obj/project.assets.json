@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Владислав\\Desktop\\web2back\\web2back\\web2back.csproj",
+      "projectUniqueName": "C:\\Users\\Владислав\\Desktop\\web2\\web2back\\web2back\\web2back.csproj",
       "projectName": "web2back",
-      "projectPath": "C:\\Users\\Владислав\\Desktop\\web2back\\web2back\\web2back.csproj",
+      "projectPath": "C:\\Users\\Владислав\\Desktop\\web2\\web2back\\web2back\\web2back.csproj",
       "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Владислав\\Desktop\\web2back\\web2back\\obj\\",
+      "outputPath": "C:\\Users\\Владислав\\Desktop\\web2\\web2back\\web2back\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",
