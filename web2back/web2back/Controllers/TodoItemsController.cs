@@ -10,8 +10,8 @@ namespace web2back.Controllers
     {
         private static readonly List<TodoItem> _items = new List<TodoItem>
     {
-        new TodoItem { Id = 1, Title = "Buy groceries", IsCompleted = false },
-        new TodoItem { Id = 2, Title = "Read a book", IsCompleted = true }
+        new TodoItem { Id = 1, Title = "Сделать лабу", IsCompleted = true },
+        new TodoItem { Id = 2, Title = "Защитить лабу", IsCompleted = true }
     };
 
         [HttpGet]
